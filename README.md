@@ -1,6 +1,6 @@
 # file-downloader - simple tkinter project - In Development 
 
-Just a simple GUI to try out tkinter. It uses the request module under the covers to download a file and save it as a file in a directory specified by the user.
+Just a simple GUI to try and test out tkinter. It uses the request module under the covers to download a file and save it as a file in a directory specified by the user.
 
 If the directory doesn't exist, the program creates it.
 
@@ -8,7 +8,7 @@ If the directory doesn't exist, the program creates it.
 
 The GUI needs worked on but the basic concept is the user passes in a directory, filename & url. The last two fields will output the fullpath and if the file was downloaded successfully.
 
-![File Downloader 16_07_2019 22_17_53](https://user-images.githubusercontent.com/32989131/61330652-02226200-a818-11e9-8852-a37b324cd3d3.png)
+![File Downloader 16_07_2019 22_24_36](https://user-images.githubusercontent.com/32989131/61330873-870d7b80-a818-11e9-8e67-72996f773f2a.png)
 
 The examples in the above:
 - Filepath: Any folder
