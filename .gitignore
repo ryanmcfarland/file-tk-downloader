@@ -1,0 +1,6 @@
+#### ignoring .vscode
+.vscode
+examples
+
+# This should ignore all pycaches recurisviely --> taken from https://www.reddit.com/r/git/comments/bj4hjl/how_to_ignore_pycache_directories_in_a_main/
+**/__pycache__/
